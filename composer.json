@@ -1,5 +1,5 @@
 {
-    "name": "react/stream",
+    "name": "mfmdevsystem/react.socket",
     "description": "Event-driven readable and writable streams for non-blocking I/O in ReactPHP",
     "keywords": ["event-driven", "readable", "writable", "stream", "non-blocking", "io", "pipe", "ReactPHP"],
     "license": "MIT",
@@ -23,6 +23,10 @@
             "name": "Chris Boden",
             "homepage": "https://cboden.dev/",
             "email": "cboden@gmail.com"
+        },
+        {
+            "name": "Mohamad Faeez",
+            "email": "faeez@maximumbuilders.my"
         }
     ],
     "require": {
