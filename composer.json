@@ -1,5 +1,5 @@
 {
-    "name": "mfmdevsystem/react.stream",
+    "name": "mfmdevsystem/react-stream",
     "description": "Event-driven readable and writable streams for non-blocking I/O in ReactPHP",
     "keywords": ["event-driven", "readable", "writable", "stream", "non-blocking", "io", "pipe", "ReactPHP"],
     "license": "MIT",
